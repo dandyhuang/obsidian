@@ -11,12 +11,14 @@
             "id": "dbd530f88162e78c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "draw.excalidraw"
+                "file": "工作内容/vivo/rank/1 cpd Ranking升级&版本收敛.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "draw"
+              "icon": "lucide-file",
+              "title": "1 cpd Ranking升级&版本收敛"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "draw.excalidraw",
+                "file": "工作内容/vivo/rank/1 cpd Ranking升级&版本收敛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "draw 的反向链接列表"
+              "title": "1 cpd Ranking升级&版本收敛 的反向链接列表"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "draw.excalidraw",
+                "file": "工作内容/vivo/rank/1 cpd Ranking升级&版本收敛.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "draw 的出链列表"
+              "title": "1 cpd Ranking升级&版本收敛 的出链列表"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "draw.excalidraw",
+                "file": "工作内容/vivo/rank/1 cpd Ranking升级&版本收敛.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "draw 的大纲"
+              "title": "1 cpd Ranking升级&版本收敛 的大纲"
             }
           },
           {
@@ -193,11 +195,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dbd530f88162e78c",
+  "active": "444eee9f0b8a411f",
   "lastOpenFiles": [
-    "draw.excalidraw.crswap",
+    "工作内容/vivo/rank",
+    "工作内容/vivo",
+    "Pasted image 20260325111035.png",
+    "Pasted image 20260325110959.png",
+    "Pasted image 20260325110815.png",
+    "Pasted image 20260325110752.png",
+    "Pasted image 20260325110737.png",
+    "2026-03-23.md",
+    "工作内容/vivo/rank/1 cpd Ranking升级&版本收敛.md",
     "draw.excalidraw",
+    "无标题-2026-03-23-1040.excalidraw.crswap",
+    "无标题-2026-03-23-1040.excalidraw",
     "未命名 1.base",
-    "未命名.base"
+    "未命名.base",
+    "欢迎.md",
+    "draw.excalidraw.crswap"
   ]
 }
